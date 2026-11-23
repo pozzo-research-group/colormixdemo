@@ -1,3 +1,6 @@
+.. note::
+   **Archived.** This repository is read-only and no longer maintained. The optimizer server is maintained in `bo-serving <https://github.com/pozzo-research-group/bo-serving>`_ and the color-matching demo in `jubilee_pipette_BOdemo <https://github.com/pozzo-research-group/jubilee_pipette_BOdemo>`_.
+
 .. These are examples of badges you might want to add to your README:
    please update the URLs accordingly
 
